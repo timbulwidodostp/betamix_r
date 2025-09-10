@@ -1,6 +1,8 @@
 # betamix_r
 Finite Mixtures of Beta Regression for Rates and Proportions Use betamix (betareg) With (In) R Software
 
+https://www.youtube.com/watch?v=XfkRpQIenI8
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
